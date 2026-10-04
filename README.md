@@ -15,9 +15,13 @@ Cybersecurity student at Brigham Young University - Idaho with 3.956 GPA includi
 
 ## Certifications
 [CompTIA Security+](https://www.credly.com/badges/a7c34096-db7a-48bf-ba31-70baf55f2e06/)
+
 [INE Junior Penetration Tester](https://certs.ine.com/8f1aacf0-a0e2-4de5-bcb7-5002cb451dce#acc.BS4L6qox)
+
 [Web and Computer Programming](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000d3d4b151caf9dd4c13beb3a8ebc2b9fee75c0a07b7d547830bdad0ca3bc84aff72202c3c5cbfe2b0b1d6a4a4b546098e9d01664f500b4a5c3297cd3e5293c824)
+
 [IT Fundamentals](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=020000005c1bc1d9ed40f211bc73affb73cfaf9f5dca795b615bb94cd32be852ec3bf729a19677755501eb337c2d230599606c6dd8ad8a1a84aa76666c1a33a129917d12)
+
 [Cybersecurity](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000bbd81d6af34872db82670c7d6482c85ae3ae8530dd4683e0c1a454c507c18474ebb3eaebc4e41d64bbf2a6500c82287461430b7bc7f08bf43c4b23898dd4dc56)
 
 ## Let's Connect!
